@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "AutobotsRolloutUML", "AutobotsRolloutUML\AutobotsRolloutUML.modelproj", "{76AC68D0-42A6-4DD8-876A-7AA2E12F6407}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutobotsRollout", "..\AutobotsRollout\AutobotsRollout\AutobotsRollout.csproj", "{4722333B-4293-4E74-BA79-39A23D8EAF9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76AC68D0-42A6-4DD8-876A-7AA2E12F6407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76AC68D0-42A6-4DD8-876A-7AA2E12F6407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76AC68D0-42A6-4DD8-876A-7AA2E12F6407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76AC68D0-42A6-4DD8-876A-7AA2E12F6407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4722333B-4293-4E74-BA79-39A23D8EAF9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4722333B-4293-4E74-BA79-39A23D8EAF9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4722333B-4293-4E74-BA79-39A23D8EAF9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4722333B-4293-4E74-BA79-39A23D8EAF9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
